@@ -1,6 +1,5 @@
 # fs-extra-promise-es6
 [![Build Status](https://travis-ci.org/vinsonchuong/fs-extra-promise-es6.svg?branch=master)](https://travis-ci.org/vinsonchuong/fs-extra-promise-es6)
-[![Code Climate](https://codeclimate.com/github/vinsonchuong/fs-extra-promise-es6.png)](https://codeclimate.com/github/vinsonchuong/fs-extra-promise-es6)
 
 ## Installing
 `fs-extra-promise-es6` is available as an
