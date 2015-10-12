@@ -1,7 +1,7 @@
 {
   "name": "fs-extra-promise-es6",
   "version": "0.0.1",
-  "description": "",
+  "description": "An ES6 promise adapter for fs-extra for use with ES7 async/await",
   "keywords": [],
   "homepage": "https://github.com/vinsonchuong/fs-extra-promise-es6",
   "bugs": "https://github.com/vinsonchuong/fs-extra-promise-es6/issues",
