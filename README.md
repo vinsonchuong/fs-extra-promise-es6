@@ -7,6 +7,16 @@ An ES6 promise adapter for fs-extra for use with ES7 async/await,
 `fs-extra-promise-es6` is available as an
 [npm package](https://www.npmjs.com/package/fs-extra-promise-es6).
 
+## Usage
+```js
+import * as fse from 'fs-extra-promise-es6';
+
+async function run() {
+  console.log(await fse.readJson('package.json'));
+}
+run();
+```
+
 ## Development
 ### Getting Started
 The application requires the following external dependencies:
