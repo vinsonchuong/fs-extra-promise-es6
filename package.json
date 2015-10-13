@@ -16,7 +16,7 @@
     "url": "https://github.com/vinsonchuong/fs-extra-promise-es6"
   },
   "scripts": {
-    "prepublish": "dist-es6",
+    "prepublish": "babel-node --stage 0 node_modules/.bin/dist-es6",
     "test": "eslint && jasmine"
   },
   "dependencies": {
