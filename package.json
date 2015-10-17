@@ -7,10 +7,13 @@
   "bugs": "https://github.com/vinsonchuong/fs-extra-promise-es6/issues",
   "license": "MIT",
   "author": "Vinson Chuong <vinsonchuong@gmail.com>",
-  "files": ["LICENSE", "README.md", "src"],
+  "files": [
+    "LICENSE",
+    "README.md",
+    "src"
+  ],
   "main": "src/index.js",
-  "bin": {
-  },
+  "bin": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/vinsonchuong/fs-extra-promise-es6"
@@ -20,7 +23,7 @@
     "test": "eslint && jasmine"
   },
   "dependencies": {
-    "node-promise-es6": "^0.2.2",
+    "node-promise-es6": "^0.2.3",
     "fs-extra": "^0.24.0"
   },
   "devDependencies": {
