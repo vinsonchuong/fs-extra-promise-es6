@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "node-promise-es6": "^0.2.3",
-    "fs-extra": "^0.25.0"
+    "fs-extra": "^0.26.0"
   },
   "devDependencies": {
     "dist-es6": "^0.0.18",
