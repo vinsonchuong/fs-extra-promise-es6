@@ -15,6 +15,7 @@ export const outputFileSync = fse.outputFileSync;
 export const outputJsonSync = fse.outputJsonSync;
 export const readJsonSync = fse.readJsonSync;
 export const removeSync = fse.removeSync;
+export const walk = fse.walk;
 export const writeJsonSync = fse.writeJsonSync;
 /* eslint-enable */
 
