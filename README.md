@@ -1,3 +1,5 @@
+**This package has been abandoned as fs-extra now works with async/await out of the box**
+
 # fs-extra-promise-es6
 [![Build Status](https://travis-ci.org/vinsonchuong/fs-extra-promise-es6.svg?branch=master)](https://travis-ci.org/vinsonchuong/fs-extra-promise-es6)
 
